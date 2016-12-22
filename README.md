@@ -1,2 +1,2 @@
 # hello-world
-another repository
+This is a tutorial for GitHub.
